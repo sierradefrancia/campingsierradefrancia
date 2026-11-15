@@ -45,6 +45,18 @@ last_modified_at: 2026-11-15
 
 **Un pequeño bosque dentro de un bosque.**
 
+<div style="position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:10px;margin:24px 0;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/itPdIEBRAos"
+    title="Vídeo del Camping Sierra de Francia"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, a solo cuatro kilómetros de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
 
 Desde 1977 recibimos a quienes vienen a conocer este rincón de Salamanca, pasar unos días al aire libre y explorar sus pueblos y paisajes.
