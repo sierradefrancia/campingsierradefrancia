@@ -42,13 +42,21 @@ aux_links:
 aux_links_new_tab: true
 
 # PIE DE PÁGINA
-# Se ampliará cuando estén creadas las páginas legales.
 
 footer_content: >-
   © 2026 Camping Sierra de Francia.
   Camping Sierra de Francia SLU.
   El Casarito, Nava de Francia, Salamanca.
+  ·
   <a href="/contacto/">Contacto y reservas</a>.
+  ·
+  <a href="/aviso-legal/">Aviso legal</a>.
+  ·
+  <a href="/politica-de-privacidad/">Política de privacidad</a>.
+  ·
+  <a href="/politica-de-cookies/">Política de cookies</a>.
+  ·
+  <a href="/sitemap.xml">Mapa del sitio</a>.
 
 # SEO Y SITEMAP
 
