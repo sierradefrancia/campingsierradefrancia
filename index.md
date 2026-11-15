@@ -34,7 +34,7 @@ last_modified_at: 2026-11-15
     margin: 0;
   ">
     Estamos trabajando en nuestra nueva página web.
-    Tanto el diseño como los contenidos y la información
+    Tanto el diseño como los contenidos
     publicados se encuentran en desarrollo
     y todavía no son definitivos.
   </p>
