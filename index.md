@@ -22,7 +22,7 @@ Estamos dentro del Parque Natural Las Batuecas–Sierra de Francia, rodeados de 
 
 ---
 
-## Un camping de 15.000 m² entre enormes robles
+## Un camping entre enormes robles
 
 Nuestro camping es, sobre todo, un robledal.
 
