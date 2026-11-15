@@ -1,0 +1,221 @@
+{% comment %}
+====================================================
+CAMPING SIERRA DE FRANCIA
+HEAD CUSTOM — V1
+====================================================
+
+Compatible con:
+- Jekyll
+- Just the Docs
+- jekyll-seo-tag
+- jekyll-sitemap
+
+Objetivos:
+1. Metadatos complementarios.
+2. Identidad del camping mediante Schema.org.
+3. BreadcrumbList para páginas interiores.
+4. Datos verificables y centralizados.
+
+No duplicar:
+- title
+- meta description
+- canonical
+- WebSite
+- WebPage
+
+No inventar:
+- Coordenadas
+- Valoraciones
+- Precios
+- Horarios
+- Servicios no confirmados
+
+====================================================
+{% endcomment %}
+
+{% assign home_url = '/' | absolute_url %}
+{% assign current_url = page.url | absolute_url %}
+{% assign camping_id = home_url | append: '#camping' %}
+
+{% comment %}
+====================================================
+1. METADATOS COMPLEMENTARIOS
+====================================================
+{% endcomment %}
+
+<meta name="theme-color" content="#ffffff">
+
+{% comment %}
+====================================================
+2. ENTIDAD PRINCIPAL: CAMPING
+
+Se publica únicamente en la portada.
+
+La información se obtiene de _config.yml
+para evitar duplicar datos de contacto.
+
+Las características de las mascotas se
+describen de forma precisa.
+
+No se declara que las mascotas estén
+permitidas en todos los alojamientos.
+====================================================
+{% endcomment %}
+
+{% if page.url == '/' %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Campground",
+  "@id": {{ camping_id | jsonify }},
+
+  "name": {{ site.camping.nombre | jsonify }},
+
+  "url": {{ home_url | jsonify }},
+
+  "description": {{ site.description | strip_newlines | jsonify }},
+
+  "telephone": {{ site.camping.telefono | jsonify }},
+
+  "email": {{ site.camping.email | jsonify }},
+
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ site.camping.localidad | jsonify }},
+    "addressLocality": {{ site.camping.municipio | jsonify }},
+    "addressRegion": {{ site.camping.provincia | jsonify }},
+    "postalCode": {{ site.camping.codigo_postal | jsonify }},
+    "addressCountry": {{ site.camping.pais | jsonify }}
+  },
+
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Piscina",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Wi-Fi",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Agua caliente",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Lavadora",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Bar y terraza",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Microtienda",
+      "value": true
+    }
+  ],
+
+  "petsAllowed": "Se admiten mascotas en parcelas y zona de acampada. No se admiten mascotas en los bungalows."
+}
+</script>
+
+{% endif %}
+
+{% comment %}
+====================================================
+3. BREADCRUMBS
+
+Se construyen utilizando la jerarquía
+real de URLs.
+
+No dependen de títulos repetidos.
+
+Solo se incorporan páginas existentes.
+
+La portada no genera BreadcrumbList.
+====================================================
+{% endcomment %}
+
+{% unless page.url == '/' %}
+
+{% assign path_parts = page.url | split: '/' %}
+{% assign parent_path = '/' %}
+{% assign breadcrumb_items = '' | split: ',' %}
+
+{% for part in path_parts %}
+
+  {% if part != '' %}
+
+    {% assign parent_path = parent_path | append: part | append: '/' %}
+
+    {% if parent_path != page.url %}
+
+      {% for candidate in site.pages %}
+
+        {% if candidate.url == parent_path %}
+
+          {% assign breadcrumb_items = breadcrumb_items | push: candidate %}
+
+          {% break %}
+
+        {% endif %}
+
+      {% endfor %}
+
+    {% endif %}
+
+  {% endif %}
+
+{% endfor %}
+
+{% assign current_title = page.title | default: site.title %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": {{ current_url | append: '#breadcrumb' | jsonify }},
+
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": {{ home_url | jsonify }}
+    }
+
+    {% assign position = 1 %}
+
+    {% for ancestor in breadcrumb_items %}
+
+      {% assign position = position | plus: 1 %}
+
+      ,{
+        "@type": "ListItem",
+        "position": {{ position }},
+        "name": {{ ancestor.title | jsonify }},
+        "item": {{ ancestor.url | absolute_url | jsonify }}
+      }
+
+    {% endfor %}
+
+    {% assign position = position | plus: 1 %}
+
+    ,{
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": {{ current_title | jsonify }},
+      "item": {{ current_url | jsonify }}
+    }
+  ]
+}
+</script>
+
+{% endunless %}
