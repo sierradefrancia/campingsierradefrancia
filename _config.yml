@@ -1,0 +1,111 @@
+# ==================================================
+# CAMPING SIERRA DE FRANCIA
+# Configuración principal de Jekyll
+# ==================================================
+
+# IDENTIDAD
+
+title: "Camping Sierra de Francia"
+
+description: >-
+  Camping familiar en El Casarito, cerca de La Alberca,
+  Salamanca. Parcelas de acampada con sombra bajo robles,
+  bungalows de madera y piscina en plena Sierra de Francia.
+
+url: "https://campingsierradefrancia.com"
+baseurl: ""
+
+lang: es
+timezone: Europe/Madrid
+
+# TEMA
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+
+# NAVEGACIÓN
+
+search_enabled: true
+
+search:
+  heading_level: 3
+
+nav_sort: case_insensitive
+
+# ENLACES EXTERNOS
+
+aux_links:
+  "La Sierra de Francia":
+    - "https://lasierradefrancia.es"
+
+aux_links_new_tab: true
+
+# PIE DE PÁGINA
+# Se ampliará cuando estén creadas las páginas legales.
+
+footer_content: >-
+  © 2026 Camping Sierra de Francia.
+  Camping Sierra de Francia SLU.
+  El Casarito, Nava de Francia, Salamanca.
+  <a href="/contacto/">Contacto y reservas</a>.
+
+# SEO Y SITEMAP
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+# MARKDOWN
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# URLS
+
+permalink: pretty
+
+# ARCHIVOS EXCLUIDOS
+
+exclude:
+  - README.md
+  - METODOLOGIA.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .github/
+
+# IDENTIDAD DEL TITULAR
+
+author:
+  name: "Camping Sierra de Francia SLU"
+  url: "https://campingsierradefrancia.com"
+
+# DATOS DE CONTACTO
+# Para su reutilización en futuras plantillas.
+
+camping:
+  nombre: "Camping Sierra de Francia"
+  titular: "Camping Sierra de Francia SLU"
+  cif: "B37221843"
+  telefono: "+34661535704"
+  email: "campingsierradefrancia@gmail.com"
+  localidad: "El Casarito"
+  municipio: "Nava de Francia"
+  codigo_postal: "37659"
+  provincia: "Salamanca"
+  pais: "ES"
+  fundacion: 1977
+
+# ==================================================
+# DATOS ESTRUCTURADOS
+#
+# Se implementarán en _includes/head_custom.html.
+# No duplicar el JSON-LD de jekyll-seo-tag.
+# No declarar precios, valoraciones o coordenadas
+# sin comprobarlos.
+# ==================================================
