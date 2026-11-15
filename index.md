@@ -6,19 +6,42 @@ permalink: /
 last_modified_at: 2026-11-15
 ---
 
-<div style="background-color: #fff3cd; border: 2px solid #d6a300; border-radius: 8px; padding: 20px; margin: 20px 0 30px 0; text-align: center;">
 
-  <p style="font-size: 1.4rem; font-weight: 700; margin-bottom: 12px;">
-    🚧 WEB EN CONSTRUCCIÓN 🚧
+<div style="
+  border: 3px solid #b8860b;
+  border-radius: 10px;
+  background-color: #fff3cd;
+  padding: 25px 20px;
+  margin: 25px 0 35px 0;
+  text-align: center;
+  box-sizing: border-box;
+">
+
+  <p style="
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #6b4e00;
+    margin: 0 0 18px 0;
+    line-height: 1.3;
+  ">
+    🚧 PÁGINA WEB EN CONSTRUCCIÓN 🚧
   </p>
 
-  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
+  <p style="
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #493800;
+    line-height: 1.6;
+    margin: 0;
+  ">
     Estamos trabajando en nuestra nueva página web.
-    Tanto el <strong>diseño</strong> como los
-    <strong>contenidos e información publicados</strong>
-    se encuentran en desarrollo y
-    <strong>todavía no son definitivos</strong>.
+    Tanto el diseño como los contenidos y la información
+    publicados se encuentran en desarrollo
+    y todavía no son definitivos.
   </p>
+
+</div>
+
 
 </div>
 
