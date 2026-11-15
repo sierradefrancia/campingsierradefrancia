@@ -70,7 +70,7 @@ Una opción para quienes viajan con su propio equipamiento y quieren tener la Si
 
 Para quienes prefieren alojarse en un bungalow sin renunciar al entorno natural y al ambiente familiar del camping.
 
-Disponemos de dos bungalows de madera, **Tomé y Roble**, con capacidad para cinco personas cada uno.
+Disponemos de dos tipos de bungalows de madera, **Tomé y Roble**, con capacidad para cinco personas cada uno.
 
 Una alternativa para disfrutar de la Sierra de Francia y regresar a descansar entre los árboles.
 
@@ -113,7 +113,7 @@ Desde nuestro camping puedes descubrir todo ese patrimonio y regresar al final d
 
 ---
 
-## La Alberca y los seis pueblos históricos de la Sierra de Francia
+## La Alberca y otros cinco conjuntos históricos en la Sierra de Francia
 
 Muy cerca del camping se encuentra **[La Alberca](/la-sierra/pueblos/la-alberca/)**, uno de los pueblos más conocidos de Salamanca y uno de los primeros conjuntos históricos declarados en España.
 
