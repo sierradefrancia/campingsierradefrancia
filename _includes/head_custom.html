@@ -1,24 +1,38 @@
 {% comment %}
 ====================================================
 CAMPING SIERRA DE FRANCIA
-HEAD CUSTOM — V2
+HEAD CUSTOM — V3
 ====================================================
 
-FUENTE CENTRAL DE DATOS:
+FUENTE CENTRAL:
 _data/camping.yml
 
-OBJETIVOS:
-- Identificar el camping mediante Schema.org.
-- Describir los alojamientos sin inventar datos.
-- Generar breadcrumbs para páginas interiores.
-- Mantener identificadores estables.
-- Evitar duplicidades con jekyll-seo-tag.
+RESPONSABILIDADES:
+1. Identidad Schema.org del establecimiento.
+2. Servicios confirmados.
+3. Política de mascotas.
+4. Breadcrumbs de páginas interiores.
+5. Identificadores estables.
 
-IMPORTANTE:
-- No duplicar title, description ni canonical.
-- No inventar coordenadas ni valoraciones.
-- No declarar que los bungalows admiten mascotas.
-- No incluir precios ni horarios sin confirmar.
+COMPATIBILIDAD:
+- Jekyll
+- Just the Docs
+- jekyll-seo-tag
+- jekyll-sitemap
+
+No duplicar:
+- title
+- description HTML
+- canonical
+- WebSite
+- WebPage
+
+No inventar:
+- coordenadas
+- precios
+- valoraciones
+- horarios
+- características no confirmadas
 
 ====================================================
 {% endcomment %}
@@ -36,8 +50,11 @@ IMPORTANTE:
 
 {% comment %}
 ====================================================
-1. DATOS ESTRUCTURADOS DEL CAMPING
-Solo en la portada.
+1. ENTIDAD PRINCIPAL: CAMPGROUND
+
+Se publica exclusivamente en portada.
+
+Los datos proceden de _data/camping.yml.
 ====================================================
 {% endcomment %}
 
@@ -68,77 +85,45 @@ Solo en la portada.
   "amenityFeature": [
     {% assign separator = '' %}
 
-    {% if servicios.piscina.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Piscina",
-        "value": true
-      }
-      {% assign separator = ',' %}
-    {% endif %}
+    {% for servicio in servicios %}
+      {% assign clave = servicio[0] %}
+      {% assign datos = servicio[1] %}
 
-    {% if servicios.agua_caliente.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Agua caliente",
-        "value": true
-      }
-      {% assign separator = ',' %}
-    {% endif %}
+      {% if datos.disponible %}
 
-    {% if servicios.lavadora.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Lavadora",
-        "value": true
-      }
-      {% assign separator = ',' %}
-    {% endif %}
+        {% assign nombre_servicio = clave %}
 
-    {% if servicios.wifi.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Wi-Fi",
-        "value": true
-      }
-      {% assign separator = ',' %}
-    {% endif %}
+        {% case clave %}
+          {% when 'piscina' %}
+            {% assign nombre_servicio = 'Piscina' %}
+          {% when 'agua_caliente' %}
+            {% assign nombre_servicio = 'Agua caliente' %}
+          {% when 'lavadora' %}
+            {% assign nombre_servicio = 'Lavadora' %}
+          {% when 'wifi' %}
+            {% assign nombre_servicio = 'Wi-Fi' %}
+          {% when 'bar' %}
+            {% assign nombre_servicio = 'Bar' %}
+          {% when 'terraza' %}
+            {% assign nombre_servicio = 'Terraza' %}
+          {% when 'microtienda' %}
+            {% assign nombre_servicio = 'Microtienda' %}
+        {% endcase %}
 
-    {% if servicios.bar.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Bar",
-        "value": true
-      }
-      {% assign separator = ',' %}
-    {% endif %}
+        {{ separator }}
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": {{ nombre_servicio | jsonify }},
+          "value": true
+        }
 
-    {% if servicios.terraza.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Terraza",
-        "value": true
-      }
-      {% assign separator = ',' %}
-    {% endif %}
+        {% assign separator = ',' %}
 
-    {% if servicios.microtienda.disponible %}
-      {{ separator }}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Microtienda",
-        "value": true
-      }
-    {% endif %}
+      {% endif %}
+    {% endfor %}
   ],
 
-  "petsAllowed": {{ alojamientos.parcelas.descripcion | append: ' No se admiten mascotas en los bungalows.' | jsonify }}
+  "petsAllowed": "Se admiten mascotas en las parcelas y en la zona de acampada. No se admiten mascotas en los bungalows."
 
   {% if establecimiento.ubicacion.latitud and establecimiento.ubicacion.longitud %}
   ,
@@ -167,15 +152,12 @@ Solo en la portada.
 ====================================================
 2. BREADCRUMBS AUTOMÁTICOS
 
-La jerarquía se construye mediante URLs.
+Se construyen utilizando la estructura de URLs.
 
-Ejemplo:
-Inicio
-Rutas y caminos
-Caminos de Arte en la Naturaleza
-Camino del Agua
+Solo se incluyen páginas que realmente existen
+en site.pages.
 
-Solo se incluyen páginas existentes.
+No se generan breadcrumbs para la portada.
 ====================================================
 {% endcomment %}
 
@@ -218,7 +200,6 @@ Solo se incluyen páginas existentes.
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "@id": {{ current_url | append: '#breadcrumb' | jsonify }},
-
   "itemListElement": [
     {
       "@type": "ListItem",
