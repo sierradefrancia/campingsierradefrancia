@@ -84,11 +84,18 @@ Una alternativa para quienes prefieren alojarse en un bungalow y seguir disfruta
 
 [Descubre nuestros bungalows](/bungalows/)
 
-### Instalaciones y servicios
 
-Disponemos de instalaciones y servicios para atender las necesidades de nuestros visitantes durante su estancia.
+## Instalaciones y servicios
 
-[Consulta nuestras instalaciones y servicios](/instalaciones/)
+Somos un camping pequeño y familiar, sin grandes lujos ni pretensiones. Disponemos de servicios sencillos para que nuestros visitantes disfruten de una estancia cómoda y agradable.
+
+- **Piscina gratuita** para nuestros clientes.
+- **Bar y terraza** para tomar algo y disfrutar de un rato agradable.
+- **Wi-Fi** en el camping.
+- **Servicio de lavadora.**
+- **Pequeña tienda** con productos básicos.
+
+No pretendemos ofrecer las instalaciones de un gran complejo turístico. Nuestro mayor atractivo está en el propio camping: los enormes robles, la sombra natural, la tranquilidad y el entorno que nos rodea.
 
 ---
 
