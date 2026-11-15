@@ -26,13 +26,13 @@ El Camping Sierra de Francia se encuentra en El Casarito, junto a varios caminos
 
 ### [Senda de los Castaños Centenarios](/rutas/desde-el-camping/castanos-centenarios/)
 
-Un paseo sencillo entre robles y enormes castaños, algunos con varios siglos de antigüedad.
+Un paseo circular de aproximadamente **1,6 km**, sencillo, entre robles y enormes castaños, algunos con más de 500 años de antigüedad.
 
 Es una de las rutas más conocidas de El Casarito y una opción especialmente agradable para disfrutar del bosque sin realizar una caminata larga.
 
 ### [Camino del Peñasco](/rutas/desde-el-camping/camino-del-penasco/)
 
-Un recorrido circular por el entorno de El Casarito, entre árboles, formaciones rocosas y lugares relacionados con la historia del paisaje.
+Un recorrido circular de aproximadamente **2–3 km** por el entorno de El Casarito, entre árboles, formaciones rocosas y lugares relacionados con la historia del paisaje.
 
 Una alternativa para quienes quieren descubrir los alrededores del camping a pie.
 
@@ -41,6 +41,16 @@ Una alternativa para quienes quieren descubrir los alrededores del camping a pie
 Desde El Casarito también es posible ascender caminando hasta la cumbre de la Peña de Francia.
 
 Una ruta de montaña más exigente que permite pasar de los bosques de las zonas bajas a los paisajes abiertos de la cumbre.
+
+![Peña de Francia, Salamanca](https://commons.wikimedia.org/wiki/Special:FilePath/Pe%C3%B1a_de_Francia.JPG)
+
+*La Peña de Francia, uno de los grandes destinos de senderismo de la comarca. Fotografía: [Smeagol](https://commons.wikimedia.org/wiki/File:Pe%C3%B1a_de_Francia.JPG), [CC BY 2.1 España](https://creativecommons.org/licenses/by/2.1/es/).*
+
+### [Bosque Animado de Nava de Francia](/rutas/desde-el-camping/bosque-animado/)
+
+Una propuesta familiar de aproximadamente **3,2 km**, con figuras de animales y personajes integrados en el entorno natural.
+
+El recorrido del Bosque Animado tiene su propio trazado en Nava de Francia. Desde El Casarito también existen caminos tradicionales para acercarse a la localidad, aunque esa aproximación añade distancia.
 
 ### [Otras rutas desde el camping](/rutas/desde-el-camping/otras-rutas/)
 
@@ -60,19 +70,41 @@ Cada camino tiene su propia personalidad y ofrece una manera diferente de conoce
 
 ### [Camino de las Raíces](/rutas/caminos-de-arte-en-la-naturaleza/camino-de-las-raices/)
 
-Recorrido circular por el entorno de **[La Alberca](/la-sierra/pueblos/la-alberca/)**, conjunto histórico, entre bosques, caminos tradicionales y obras artísticas.
+**Distancia aproximada:** 8 km  
+**Localidad:** [La Alberca](/la-sierra/pueblos/la-alberca/)
+
+Recorrido circular por el entorno de La Alberca, conjunto histórico, entre bosques, caminos tradicionales, ermitas y obras artísticas.
+
+![Laguna de San Marcos, en el entorno del Camino de las Raíces](https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_San_Marcos._La_Alberca.JPG?width=1200)
+
+*Laguna de San Marcos, uno de los lugares del recorrido. Fotografía: [Caseñosanchez](https://commons.wikimedia.org/wiki/File:Laguna_de_San_Marcos._La_Alberca.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Imagen redimensionada.*
 
 ### [Camino del Agua](/rutas/caminos-de-arte-en-la-naturaleza/camino-del-agua/)
 
-Ruta circular entre **[Mogarraz](/la-sierra/pueblos/mogarraz/)**, conjunto histórico, y Monforte de la Sierra, donde el agua, la vegetación y el arte acompañan al caminante.
+**Distancia oficial:** 6 km  
+**Localidades:** [Mogarraz](/la-sierra/pueblos/mogarraz/) y Monforte de la Sierra
 
-### [Bosque de los Espejos](/rutas/caminos-de-arte-en-la-naturaleza/bosque-de-los-espejos/)
+Ruta circular donde el agua, la vegetación y el arte acompañan al caminante.
 
-Itinerario circular que conecta **[Sequeros](/la-sierra/pueblos/sequeros/)** y **[San Martín del Castañar](/la-sierra/pueblos/san-martin-del-castanar/)**, ambos conjuntos históricos, pasando también por Las Casas del Conde.
+El sendero atraviesa bosques de castaños, robles y vegetación de ribera, pasando por arroyos y puentes tradicionales.
+
+### [Asentadero – Bosque de los Espejos](/rutas/caminos-de-arte-en-la-naturaleza/bosque-de-los-espejos/)
+
+**Distancia oficial:** 9,2 km  
+**Localidades:** [Sequeros](/la-sierra/pueblos/sequeros/), Las Casas del Conde y [San Martín del Castañar](/la-sierra/pueblos/san-martin-del-castanar/)
+
+Itinerario circular que conecta dos conjuntos históricos, pasando también por Las Casas del Conde.
+
+Las obras artísticas juegan con los reflejos, las formas y la percepción del caminante.
 
 ### [Camino de los Prodigios](/rutas/caminos-de-arte-en-la-naturaleza/camino-de-los-prodigios/)
 
-Recorrido circular entre **[Miranda del Castañar](/la-sierra/pueblos/miranda-del-castanar/)** y **[Villanueva del Conde](/la-sierra/pueblos/villanueva-del-conde/)**, dos conjuntos históricos, que combina patrimonio, paisaje y creación artística.
+**Distancia oficial:** 10,2 km  
+**Localidades:** [Miranda del Castañar](/la-sierra/pueblos/miranda-del-castanar/) y [Villanueva del Conde](/la-sierra/pueblos/villanueva-del-conde/)
+
+Recorrido circular entre dos conjuntos históricos que combina patrimonio, paisaje y creación artística.
+
+Atraviesa bosques, antiguos bancales, viñedos y olivares.
 
 [Descubre los cuatro Caminos de Arte en la Naturaleza](/rutas/caminos-de-arte-en-la-naturaleza/)
 
@@ -84,7 +116,31 @@ Hay senderos que unen pueblos, antiguos caminos agrícolas, rutas junto a los r�
 
 Resultaría imposible reunir aquí todas las rutas y sus numerosas variantes.
 
-Por eso, además de nuestras recomendaciones, queremos compartir una herramienta especialmente útil para quienes disfrutan descubriendo nuevos caminos.
+Por eso, además de nuestras recomendaciones, queremos compartir algunos lugares especialmente interesantes para organizar excursiones.
+
+### La Peña de Francia
+
+La montaña más emblemática de la comarca, con diferentes posibilidades de senderismo por sus laderas y su entorno.
+
+[Conoce la Peña de Francia](/la-sierra/pena-de-francia/)
+
+### El valle de Las Batuecas
+
+Un paisaje de barrancos, bosques, arroyos y patrimonio histórico.
+
+![Valle del río Batuecas, Salamanca](https://commons.wikimedia.org/wiki/Special:FilePath/El_valle_del_r%C3%ADo_Batuecas_%289050477503%29.jpg?width=1200)
+
+*Valle del río Batuecas. Fotografía: [Luis Daniel Carbia Cabeza](https://commons.wikimedia.org/wiki/File:El_valle_del_r%C3%ADo_Batuecas_(9050477503).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Imagen redimensionada.*
+
+[Descubre el valle de Las Batuecas](/la-sierra/valle-de-las-batuecas/)
+
+### Las Hurdes y el meandro del Melero
+
+Al sur de la Sierra de Francia encontramos otros paisajes de montaña, senderos tradicionales y miradores.
+
+[Descubre Las Hurdes](/la-sierra/comarcas-cercanas/las-hurdes/)
+
+**[Explora otras rutas por la Sierra de Francia y su entorno](/rutas/otras-rutas/)**
 
 ### Wikiloc: descubre muchas más rutas
 
