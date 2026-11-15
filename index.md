@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Camping Sierra de Francia | Naturaleza y sombra cerca de La Alberca"
-description: "Camping familiar con mucha sombra en pleno Parque Natural Las Batuecas–Sierra de Francia, a 4 km de La Alberca. Naturaleza y tranquilidad desde 1977."
+title: "Camping Sierra de Francia | Camping familiar cerca de La Alberca"
+description: "Camping familiar en El Casarito, cerca de La Alberca, Salamanca. Parcelas con sombra, bungalows, piscina y naturaleza a los pies de la Peña de Francia. Desde 1977."
 permalink: /
 last_modified_at: 2026-11-15
 ---
@@ -10,23 +10,25 @@ last_modified_at: 2026-11-15
 
 **Un pequeño bosque dentro de un bosque.**
 
-A los pies de la Peña de Francia, en El Casarito y a solo cuatro kilómetros de La Alberca, se encuentra nuestro pequeño camping familiar.
+A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, muy cerca de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
 
 Desde 1977 recibimos a quienes buscan disfrutar de la naturaleza, descansar a la sombra de grandes árboles y descubrir uno de los rincones más especiales de Salamanca.
 
-Estamos dentro del Parque Natural Las Batuecas–Sierra de Francia, rodeados de bosques, montañas, caminos y pueblos llenos de historia.
+Estamos dentro del **Parque Natural Las Batuecas–Sierra de Francia**, rodeados de robledales, montañas, caminos y pueblos llenos de historia.
+
+Un lugar para descansar, disfrutar del aire libre y conocer la Sierra de Francia a tu ritmo.
 
 **Bienvenidos a nuestro camping.**
 
-[Conoce nuestro camping](/nuestro-camping/) · [Consulta nuestras tarifas](/tarifas/) · [Contacto y reservas](/contacto/)
+[Conoce nuestro camping](/nuestro-camping/) · [Descubre nuestras parcelas](/nuestro-camping/parcelas/) · [Nuestros bungalows](/nuestro-camping/bungalows/) · [Contacto y reservas](/contacto/)
 
 ---
 
-## Un camping entre enormes robles
+## Un camping con mucha sombra cerca de La Alberca
 
 Nuestro camping es, sobre todo, un robledal.
 
-Un pequeño bosque de aproximadamente 15.000 m², dominado por enormes robles, entre los que también crecen castaños —algunos centenarios— y otras especies de árboles.
+Un pequeño bosque de aproximadamente **15.000 m²**, dominado por enormes robles, entre los que también crecen castaños —algunos centenarios— y otras especies de árboles.
 
 Sus grandes copas proporcionan abundante sombra natural en prácticamente todo el recinto, con la excepción de la zona de la piscina.
 
@@ -40,35 +42,54 @@ No somos un gran complejo turístico, ni queremos serlo. Somos un camping peque�
 
 Un lugar donde los niños pueden jugar al aire libre, donde es fácil encontrar un rincón tranquilo y donde cada visitante puede disfrutar del camping a su manera.
 
-[Descubre nuestro camping](/nuestro-camping/)
+**[Descubre cómo es nuestro camping y sus instalaciones](/nuestro-camping/)**
 
 ---
 
-## Disfruta del camping a tu manera
+## Alojarse en el Camping Sierra de Francia
 
 Hay muchas formas de disfrutar de unos días en la Sierra de Francia.
 
-Puedes pasar la mañana tranquilamente bajo los árboles, salir a caminar por nuestros bosques, visitar alguno de los pueblos de la comarca o regresar al camping después de una excursión y disfrutar de la sombra y la tranquilidad.
+Puedes pasar la mañana tranquilamente bajo los árboles, salir a caminar por nuestros bosques, visitar alguno de los pueblos de la comarca o regresar después de una excursión y disfrutar de la sombra y la tranquilidad.
 
 Para algunos, las vacaciones son descanso. Para otros, descubrir lugares nuevos. Y para muchos, una combinación de ambas cosas.
 
-Nuestro camping permite disfrutar de esas dos experiencias.
+Nuestro camping permite disfrutar de esas experiencias.
 
-### Parcelas y acampada
+### Parcelas para disfrutar del camping tradicional
 
 Acampar entre grandes robles, rodeado de naturaleza y con abundante sombra.
 
-Un entorno para disfrutar del camping tradicional, del aire libre y de la tranquilidad de nuestro pequeño bosque.
+Nuestras parcelas permiten disfrutar de la experiencia tradicional del camping, del aire libre y de la tranquilidad de nuestro pequeño bosque.
 
-[Parcelas y acampada](/parcelas/)
+Una opción para quienes viajan con su propio equipamiento y quieren tener la Sierra de Francia como punto de partida.
 
-### Bungalows
+**[Conoce las parcelas del camping](/nuestro-camping/parcelas/)**
+
+### Bungalows en plena naturaleza
 
 Para quienes prefieren alojarse en un bungalow sin renunciar al entorno natural y al ambiente familiar del camping.
 
-[Conoce nuestros bungalows](/bungalows/)
+Disponemos de dos bungalows de madera, **Tomé y Roble**, con capacidad para cinco personas cada uno.
 
-[Consulta nuestras tarifas](/tarifas/)
+Una alternativa para disfrutar de la Sierra de Francia y regresar a descansar entre los árboles.
+
+**[Descubre nuestros bungalows en la Sierra de Francia](/nuestro-camping/bungalows/)**
+
+### Instalaciones y servicios
+
+Nuestro camping dispone de servicios para hacer más cómoda la estancia:
+
+- Piscina gratuita para nuestros clientes.
+- Agua caliente.
+- Bar y terraza.
+- Servicio de lavadora.
+- Microtienda.
+- Wi-Fi.
+
+Mantenemos el carácter sencillo y familiar del camping, sin grandes instalaciones que resten protagonismo al entorno natural.
+
+**[Consulta las instalaciones y servicios de nuestro camping](/nuestro-camping/#instalaciones-y-servicios)**
 
 ---
 
@@ -76,7 +97,7 @@ Para quienes prefieren alojarse en un bungalow sin renunciar al entorno natural 
 
 Una de las cosas que hacen especial a nuestro camping es su ubicación.
 
-Estamos en El Casarito, en el municipio de Nava de Francia, a las faldas de la Peña de Francia, uno de los grandes símbolos naturales y culturales de Salamanca.
+Estamos en **El Casarito, en el municipio de Nava de Francia**, a las faldas de la Peña de Francia, uno de los grandes símbolos naturales y culturales de Salamanca.
 
 Nos encontramos dentro del Parque Natural Las Batuecas–Sierra de Francia, un territorio de montañas, valles, robledales, castañares y paisajes que cambian con las estaciones.
 
@@ -88,37 +109,87 @@ Desde nuestro camping puedes descubrir todo ese patrimonio y regresar al final d
 
 **Un lugar para quedarse y toda una sierra por descubrir.**
 
-[Conoce la Sierra de Francia](/la-sierra/)
+[Conoce la Sierra de Francia](/la-sierra/) · [Descubre sus pueblos](/la-sierra/pueblos/) · [Explora sus rutas](/rutas/)
 
 ---
 
-## La Alberca y los pueblos históricos de nuestro entorno
+## La Alberca y los seis pueblos históricos de la Sierra de Francia
 
-A tan solo cuatro kilómetros del camping se encuentra La Alberca, uno de los pueblos más conocidos de la Sierra de Francia y uno de los primeros conjuntos históricos declarados en España.
+Muy cerca del camping se encuentra **[La Alberca](/la-sierra/pueblos/la-alberca/)**, uno de los pueblos más conocidos de Salamanca y uno de los primeros conjuntos históricos declarados en España.
 
 Pasear por sus calles permite descubrir una arquitectura tradicional muy característica y una historia estrechamente vinculada a la vida de estas montañas.
 
 Pero La Alberca es solamente el comienzo.
 
-Muy cerca se encuentran otros pueblos extraordinarios:
+La Sierra de Francia cuenta con **seis pueblos declarados conjuntos históricos**, cada uno con su propia personalidad.
 
-- **Mogarraz**, conocido por su arquitectura serrana y sus retratos en las fachadas.
-- **San Martín del Castañar**, con su castillo, su plaza de toros y su patrimonio histórico.
-- **Miranda del Castañar**, una villa amurallada de origen medieval.
-- **Sequeros**, con su arquitectura tradicional y su historia cultural.
-- **Villanueva del Conde**, con su singular trazado urbano y su arquitectura serrana.
+### La Alberca
+
+Calles empedradas, arquitectura tradicional, plazas y una historia estrechamente relacionada con la identidad de la Sierra de Francia.
+
+**[Qué ver en La Alberca](/la-sierra/pueblos/la-alberca/)**
+
+### Mogarraz
+
+Un pueblo conocido por su arquitectura serrana y los retratos de antiguos vecinos que aparecen en las fachadas de sus casas.
+
+**[Descubre Mogarraz](/la-sierra/pueblos/mogarraz/)**
+
+### San Martín del Castañar
+
+Una localidad con un importante patrimonio histórico, su castillo y un paisaje de bosques y montañas.
+
+**[Conoce San Martín del Castañar](/la-sierra/pueblos/san-martin-del-castanar/)**
+
+### Miranda del Castañar
+
+Una villa amurallada de origen medieval, con un castillo y un conjunto urbano que conserva buena parte de su carácter histórico.
+
+**[Qué visitar en Miranda del Castañar](/la-sierra/pueblos/miranda-del-castanar/)**
+
+### Sequeros
+
+Un pueblo de arquitectura tradicional, historia cultural y una posición privilegiada para contemplar los paisajes de la comarca.
+
+**[Descubre Sequeros](/la-sierra/pueblos/sequeros/)**
+
+### Villanueva del Conde
+
+Una localidad con un singular trazado urbano y construcciones tradicionales que reflejan la historia de la vida serrana.
+
+**[Conoce Villanueva del Conde](/la-sierra/pueblos/villanueva-del-conde/)**
 
 Son pueblos para recorrer sin prisas, detenerse en sus plazas, observar los detalles de sus casas y descubrir las historias que conservan.
 
-Cada uno tiene su propia personalidad.
-
-Y todos forman parte de una comarca que merece mucho más que una visita rápida.
-
-[Descubre qué visitar en la Sierra de Francia](/que-visitar/)
+**[Explora nuestra guía de pueblos de la Sierra de Francia](/la-sierra/pueblos/)**
 
 ---
 
-## Rutas y caminos desde el camping
+## Naturaleza: Peña de Francia y Las Batuecas
+
+La Sierra de Francia ofrece paisajes muy diferentes en un territorio relativamente pequeño.
+
+### Peña de Francia
+
+La [Peña de Francia](/la-sierra/pena-de-francia/), con sus 1.723 metros de altitud, es uno de los grandes referentes paisajísticos de la comarca.
+
+Su cumbre, su santuario y sus panorámicas la convierten en uno de los lugares más conocidos del entorno.
+
+Desde El Casarito también existen caminos que permiten ascender a pie.
+
+[Conoce la Peña de Francia](/la-sierra/pena-de-francia/) · [Subida desde El Casarito](/rutas/desde-el-camping/subida-pena-de-francia/)
+
+### Valle de Las Batuecas
+
+El [valle de Las Batuecas](/la-sierra/valle-de-las-batuecas/) ofrece un paisaje diferente, de barrancos, bosques, cursos de agua y un importante patrimonio natural e histórico.
+
+Es uno de los espacios más singulares del Parque Natural Las Batuecas–Sierra de Francia.
+
+**[Descubre el valle de Las Batuecas](/la-sierra/valle-de-las-batuecas/)**
+
+---
+
+## Rutas y senderismo desde nuestro camping
 
 No siempre hace falta coger el coche para descubrir la Sierra de Francia.
 
@@ -132,13 +203,103 @@ Caminar es una de las mejores formas de descubrir la Sierra de Francia.
 
 Y hacerlo desde el lugar donde te alojas tiene un encanto especial.
 
-Nos gusta compartir con nuestros visitantes los caminos que conocemos y ayudarles a elegir rutas según sus intereses y posibilidades.
+### Senda de los Castaños Centenarios
 
-[Descubre nuestras rutas y caminos](/rutas/)
+Un paseo circular de aproximadamente 1,6 km entre grandes árboles, algunos con más de 500 años.
+
+Una de las mejores propuestas para descubrir el entorno natural de El Casarito.
+
+**[Recorre la Senda de los Castaños Centenarios](/rutas/desde-el-camping/castanos-centenarios/)**
+
+### Camino del Peñasco
+
+Una ruta corta por los bosques y formaciones rocosas del entorno.
+
+Un recorrido para conocer rincones próximos al camping.
+
+**[Descubre el Camino del Peñasco](/rutas/desde-el-camping/camino-del-penasco/)**
+
+### Bosque Animado de Nava de Francia
+
+Una propuesta familiar con figuras de animales y personajes integrados en el entorno natural.
+
+**[Conoce el Bosque Animado de Nava de Francia](/rutas/desde-el-camping/bosque-animado/)**
+
+### Subida a la Peña de Francia
+
+Una excursión de montaña para quienes quieren disfrutar de una caminata más exigente.
+
+**[Consulta la ruta de subida a la Peña de Francia](/rutas/desde-el-camping/subida-pena-de-francia/)**
+
+También existen otros caminos tradicionales hacia Nava de Francia, La Alberca y localidades cercanas.
+
+[Ver todas las rutas desde el camping](/rutas/desde-el-camping/) · [Otros caminos de El Casarito](/rutas/desde-el-camping/otras-rutas/)
 
 ---
 
-## Tu guía para descubrir la Sierra de Francia
+## Caminos de Arte en la Naturaleza
+
+La Sierra de Francia cuenta con cuatro recorridos que combinan senderismo, pueblos históricos y obras de arte contemporáneo integradas en el paisaje.
+
+Son una manera diferente de descubrir los bosques, caminos y paisajes de la comarca.
+
+### Camino de las Raíces
+
+Un recorrido circular de aproximadamente 8 km por el entorno de La Alberca, entre bosques, ermitas e intervenciones artísticas.
+
+**[Descubre el Camino de las Raíces](/rutas/caminos-de-arte-en-la-naturaleza/camino-de-las-raices/)**
+
+### Camino del Agua
+
+Una ruta circular de aproximadamente 6 km entre Mogarraz y Monforte de la Sierra, con arroyos, puentes, vegetación y arte.
+
+**[Descubre el Camino del Agua](/rutas/caminos-de-arte-en-la-naturaleza/camino-del-agua/)**
+
+### Bosque de los Espejos
+
+Un recorrido circular de aproximadamente 9,2 km que conecta Sequeros, Las Casas del Conde y San Martín del Castañar.
+
+**[Descubre el Bosque de los Espejos](/rutas/caminos-de-arte-en-la-naturaleza/bosque-de-los-espejos/)**
+
+### Camino de los Prodigios
+
+Una ruta circular de aproximadamente 10,2 km entre Miranda del Castañar y Villanueva del Conde, con arte, bosques y patrimonio.
+
+**[Descubre el Camino de los Prodigios](/rutas/caminos-de-arte-en-la-naturaleza/camino-de-los-prodigios/)**
+
+[Conoce los cuatro Caminos de Arte en la Naturaleza](/rutas/caminos-de-arte-en-la-naturaleza/)
+
+También puedes explorar [otras rutas por la Sierra de Francia](/rutas/otras-rutas/) o consultar nuestra [guía general de senderismo](/rutas/).
+
+---
+
+## Mucho más por descubrir cerca de la Sierra de Francia
+
+Nuestro camping también puede servir como punto de partida para conocer otros territorios del sur de Salamanca y del norte de Extremadura.
+
+### Las Hurdes
+
+Al sur de la Sierra de Francia se extiende la comarca de Las Hurdes, con montañas, valles profundos, pequeñas localidades y paisajes tan conocidos como el meandro del Melero.
+
+**[Descubre Las Hurdes](/la-sierra/comarcas-cercanas/las-hurdes/)**
+
+### Ciudad Rodrigo
+
+Una ciudad histórica con murallas, patrimonio monumental y una larga historia relacionada con la frontera portuguesa.
+
+**[Conoce Ciudad Rodrigo](/la-sierra/comarcas-cercanas/ciudad-rodrigo/)**
+
+### Béjar y Candelario
+
+Otra zona de montaña del sur de Salamanca, con patrimonio histórico, arquitectura tradicional y paisajes diferentes a los de la Sierra de Francia.
+
+**[Descubre Béjar y Candelario](/la-sierra/comarcas-cercanas/bejar-y-candelario/)**
+
+[Explora todas nuestras propuestas de comarcas cercanas](/la-sierra/comarcas-cercanas/)
+
+---
+
+## Tu guía turístico: descubre la Sierra de Francia a tu manera
 
 Conocer bien un territorio lleva tiempo.
 
@@ -146,17 +307,22 @@ Nosotros vivimos aquí y nos gusta compartir lo que sabemos de nuestra tierra.
 
 Si vienes a pasar unos días, queremos ayudarte a aprovecharlos: descubrir pueblos, encontrar caminos, visitar lugares especiales y conocer rincones que quizá no habías pensado visitar.
 
-Por eso hemos creado un espacio dedicado a ayudarte a organizar tu estancia.
+Por eso estamos desarrollando una guía para organizar tu estancia según **los días que vayas a pasar en el camping y tus intereses**.
 
-Tanto si vienes un fin de semana como si dispones de más días, podrás encontrar propuestas adaptadas a diferentes intereses.
+Mientras completamos esa sección, ya puedes encontrar propuestas provisionales para:
 
-Naturaleza, senderismo, patrimonio, pueblos, gastronomía y experiencias para disfrutar de la Sierra de Francia.
+- Visitar la Sierra de Francia en un día.
+- Organizar una escapada de dos o tres días.
+- Descubrir la comarca durante una estancia de cinco días.
+- Elegir excursiones de naturaleza y senderismo.
+- Conocer pueblos y patrimonio.
+- Preparar actividades para disfrutar en familia.
 
-Y si necesitas alguna recomendación, siempre puedes preguntarnos personalmente.
+No queremos ofrecerte una lista interminable de lugares que visitar deprisa.
 
-**Nos encantará ayudarte a descubrir nuestra tierra.**
+Queremos ayudarte a elegir aquello que más te interese y disfrutarlo a tu ritmo.
 
-[Descubre tu guía turístico](/tu-guia/)
+**[Organiza tu estancia con nuestra guía turística](/tu-guia/)**
 
 ---
 
@@ -176,9 +342,11 @@ No pretendemos ser algo diferente de lo que somos.
 
 **Un pequeño camping familiar, en un lugar extraordinario.**
 
+[Conoce nuestra historia y nuestro camping](/nuestro-camping/)
+
 ---
 
-## Te esperamos en nuestro pequeño bosque
+## Contacto y reservas
 
 Si buscas un camping con mucha sombra, rodeado de naturaleza y cerca de La Alberca, estaremos encantados de recibirte.
 
@@ -188,12 +356,22 @@ Y también puedes venir, sencillamente, a no hacer demasiado.
 
 A veces, eso es precisamente lo que necesitamos.
 
-Estamos en El Casarito, a los pies de la Peña de Francia, dentro del Parque Natural Las Batuecas–Sierra de Francia.
+Estamos en **El Casarito, 37659 Nava de Francia, Salamanca**, a los pies de la Peña de Francia.
 
-**Bienvenidos al Camping Sierra de Francia.**
+Puedes contactar directamente con nosotros para consultar disponibilidad de parcelas o bungalows.
 
-[Contacto y reservas](/contacto/)
+**WhatsApp y teléfono:** [661 535 704](tel:+34661535704)
 
-Camping Sierra de Francia  
-El Casarito · 37659 Nava de Francia · Salamanca  
-Correo: campingsierradefrancia@gmail.com
+**Correo electrónico:** [campingsierradefrancia@gmail.com](mailto:campingsierradefrancia@gmail.com)
+
+[**Escríbenos por WhatsApp**](https://wa.me/34661535704)
+
+[**Información de contacto, ubicación y reservas**](/contacto/)
+
+---
+
+**Camping Sierra de Francia**
+
+*Un pequeño bosque dentro de un bosque.*
+
+El Casarito · Nava de Francia · Salamanca
