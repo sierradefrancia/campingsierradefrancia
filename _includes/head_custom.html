@@ -1,64 +1,43 @@
 {% comment %}
 ====================================================
 CAMPING SIERRA DE FRANCIA
-HEAD CUSTOM — V1
+HEAD CUSTOM — V2
 ====================================================
 
-Compatible con:
-- Jekyll
-- Just the Docs
-- jekyll-seo-tag
-- jekyll-sitemap
+FUENTE CENTRAL DE DATOS:
+_data/camping.yml
 
-Objetivos:
-1. Metadatos complementarios.
-2. Identidad del camping mediante Schema.org.
-3. BreadcrumbList para páginas interiores.
-4. Datos verificables y centralizados.
+OBJETIVOS:
+- Identificar el camping mediante Schema.org.
+- Describir los alojamientos sin inventar datos.
+- Generar breadcrumbs para páginas interiores.
+- Mantener identificadores estables.
+- Evitar duplicidades con jekyll-seo-tag.
 
-No duplicar:
-- title
-- meta description
-- canonical
-- WebSite
-- WebPage
-
-No inventar:
-- Coordenadas
-- Valoraciones
-- Precios
-- Horarios
-- Servicios no confirmados
+IMPORTANTE:
+- No duplicar title, description ni canonical.
+- No inventar coordenadas ni valoraciones.
+- No declarar que los bungalows admiten mascotas.
+- No incluir precios ni horarios sin confirmar.
 
 ====================================================
 {% endcomment %}
+
+{% assign camping = site.data.camping %}
+{% assign establecimiento = camping.establecimiento %}
+{% assign servicios = camping.servicios %}
+{% assign alojamientos = camping.alojamientos %}
 
 {% assign home_url = '/' | absolute_url %}
 {% assign current_url = page.url | absolute_url %}
-{% assign camping_id = home_url | append: '#camping' %}
-
-{% comment %}
-====================================================
-1. METADATOS COMPLEMENTARIOS
-====================================================
-{% endcomment %}
+{% assign camping_id = establecimiento.identificador %}
 
 <meta name="theme-color" content="#ffffff">
 
 {% comment %}
 ====================================================
-2. ENTIDAD PRINCIPAL: CAMPING
-
-Se publica únicamente en la portada.
-
-La información se obtiene de _config.yml
-para evitar duplicar datos de contacto.
-
-Las características de las mascotas se
-describen de forma precisa.
-
-No se declara que las mascotas estén
-permitidas en todos los alojamientos.
+1. DATOS ESTRUCTURADOS DEL CAMPING
+Solo en la portada.
 ====================================================
 {% endcomment %}
 
@@ -69,60 +48,116 @@ permitidas en todos los alojamientos.
   "@context": "https://schema.org",
   "@type": "Campground",
   "@id": {{ camping_id | jsonify }},
-
-  "name": {{ site.camping.nombre | jsonify }},
-
-  "url": {{ home_url | jsonify }},
-
-  "description": {{ site.description | strip_newlines | jsonify }},
-
-  "telephone": {{ site.camping.telefono | jsonify }},
-
-  "email": {{ site.camping.email | jsonify }},
+  "name": {{ establecimiento.nombre | jsonify }},
+  "url": {{ establecimiento.web | jsonify }},
+  "description": {{ establecimiento.descripcion | strip_newlines | jsonify }},
+  "telephone": {{ establecimiento.contacto.telefono | jsonify }},
+  "email": {{ establecimiento.contacto.email | jsonify }},
 
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": {{ site.camping.localidad | jsonify }},
-    "addressLocality": {{ site.camping.municipio | jsonify }},
-    "addressRegion": {{ site.camping.provincia | jsonify }},
-    "postalCode": {{ site.camping.codigo_postal | jsonify }},
-    "addressCountry": {{ site.camping.pais | jsonify }}
+    "streetAddress": {{ establecimiento.direccion.nucleo | jsonify }},
+    "addressLocality": {{ establecimiento.direccion.municipio | jsonify }},
+    "addressRegion": {{ establecimiento.direccion.provincia | jsonify }},
+    "postalCode": {{ establecimiento.direccion.codigo_postal | jsonify }},
+    "addressCountry": {{ establecimiento.direccion.pais | jsonify }}
   },
 
+  "foundingDate": {{ establecimiento.fundacion | jsonify }},
+
   "amenityFeature": [
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Piscina",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Wi-Fi",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Agua caliente",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Lavadora",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Bar y terraza",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Microtienda",
-      "value": true
-    }
+    {% assign separator = '' %}
+
+    {% if servicios.piscina.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Piscina",
+        "value": true
+      }
+      {% assign separator = ',' %}
+    {% endif %}
+
+    {% if servicios.agua_caliente.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Agua caliente",
+        "value": true
+      }
+      {% assign separator = ',' %}
+    {% endif %}
+
+    {% if servicios.lavadora.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Lavadora",
+        "value": true
+      }
+      {% assign separator = ',' %}
+    {% endif %}
+
+    {% if servicios.wifi.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Wi-Fi",
+        "value": true
+      }
+      {% assign separator = ',' %}
+    {% endif %}
+
+    {% if servicios.bar.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Bar",
+        "value": true
+      }
+      {% assign separator = ',' %}
+    {% endif %}
+
+    {% if servicios.terraza.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Terraza",
+        "value": true
+      }
+      {% assign separator = ',' %}
+    {% endif %}
+
+    {% if servicios.microtienda.disponible %}
+      {{ separator }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Microtienda",
+        "value": true
+      }
+    {% endif %}
   ],
 
-  "petsAllowed": "Se admiten mascotas en parcelas y zona de acampada. No se admiten mascotas en los bungalows."
+  "petsAllowed": {{ alojamientos.parcelas.descripcion | append: ' No se admiten mascotas en los bungalows.' | jsonify }}
+
+  {% if establecimiento.ubicacion.latitud and establecimiento.ubicacion.longitud %}
+  ,
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ establecimiento.ubicacion.latitud | jsonify }},
+    "longitude": {{ establecimiento.ubicacion.longitud | jsonify }}
+  }
+  {% endif %}
+
+  {% if establecimiento.ubicacion.google_maps %}
+  ,
+  "hasMap": {{ establecimiento.ubicacion.google_maps | jsonify }}
+  {% endif %}
+
+  {% if camping.seo.imagen_principal %}
+  ,
+  "image": {{ camping.seo.imagen_principal | jsonify }}
+  {% endif %}
 }
 </script>
 
@@ -130,16 +165,17 @@ permitidas en todos los alojamientos.
 
 {% comment %}
 ====================================================
-3. BREADCRUMBS
+2. BREADCRUMBS AUTOMÁTICOS
 
-Se construyen utilizando la jerarquía
-real de URLs.
+La jerarquía se construye mediante URLs.
 
-No dependen de títulos repetidos.
+Ejemplo:
+Inicio
+Rutas y caminos
+Caminos de Arte en la Naturaleza
+Camino del Agua
 
-Solo se incorporan páginas existentes.
-
-La portada no genera BreadcrumbList.
+Solo se incluyen páginas existentes.
 ====================================================
 {% endcomment %}
 
