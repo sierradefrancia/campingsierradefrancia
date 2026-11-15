@@ -6,7 +6,6 @@ permalink: /
 last_modified_at: 2026-11-15
 ---
 
-
 <div style="
   border: 3px solid #b8860b;
   border-radius: 10px;
@@ -46,7 +45,7 @@ last_modified_at: 2026-11-15
 
 **Un pequeño bosque dentro de un bosque.**
 
-A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, muy cerca de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
+A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, a solo cuatro kilómetros de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
 
 Desde 1977 recibimos a quienes vienen a conocer este rincón de Salamanca, pasar unos días al aire libre y explorar sus pueblos y paisajes.
 
@@ -97,6 +96,8 @@ Nuestro camping permite disfrutar de esas experiencias.
 Nuestras parcelas permiten disfrutar de la acampada tradicional, con el propio equipamiento y en un recinto donde los árboles forman parte de la experiencia.
 
 Una opción para quienes viajan con su propio equipamiento y quieren tener la Sierra de Francia como punto de partida.
+
+**Admitimos mascotas en las parcelas y en la zona de acampada.** No se admiten mascotas en los bungalows.
 
 **[Conoce las parcelas del camping](/nuestro-camping/parcelas/)**
 
@@ -373,6 +374,18 @@ No pretendemos ser algo diferente de lo que somos.
 **Un pequeño camping familiar, en un lugar extraordinario.**
 
 [Conoce nuestra historia y nuestro camping](/nuestro-camping/)
+
+---
+
+## Cuándo abrimos
+
+Nuestro camping tiene una apertura estacional.
+
+Habitualmente abrimos durante **Semana Santa, el puente de mayo y la temporada de verano, del 1 de julio al 31 de agosto**.
+
+Las fechas concretas pueden variar de un año a otro, por lo que recomendamos consultar la apertura y la disponibilidad antes de organizar la estancia.
+
+**[Consulta las fechas de apertura y contacta con nosotros](/contacto/)**
 
 ---
 
