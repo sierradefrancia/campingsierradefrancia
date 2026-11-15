@@ -2,6 +2,7 @@
 layout: default
 title: "La Sierra de Francia y su entorno"
 description: "Descubre la Sierra de Francia desde nuestro camping: conjuntos históricos, Peña de Francia, valle de Las Batuecas, Las Hurdes, Ciudad Rodrigo y Béjar."
+has_children: true
 permalink: /la-sierra/
 nav_order: 3
 last_modified_at: 2026-11-15
