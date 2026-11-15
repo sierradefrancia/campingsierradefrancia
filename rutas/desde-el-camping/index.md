@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rutas desde el camping"
-description: "Descubre rutas de senderismo que comienzan junto al Camping Sierra de Francia, en El Casarito: Castaños Centenarios, Camino del Peñasco, Peña de Francia y caminos hacia los pueblos."
+description: "Descubre rutas de senderismo que comienzan junto al Camping Sierra de Francia, en El Casarito: Castaños Centenarios, Camino del Peñasco, Peña de Francia, Bosque Animado y caminos hacia los pueblos."
 permalink: /rutas/desde-el-camping/
 parent: "Rutas y caminos"
 nav_order: 1
@@ -37,13 +37,13 @@ La senda cuenta con tramos acondicionados para facilitar el recorrido.
 
 ## [Camino del Peñasco](/rutas/desde-el-camping/camino-del-penasco/)
 
-**Distancia aproximada:** 2,5 km  
+**Distancia aproximada:** 2–3 km  
 **Tipo:** Circular  
 **Dificultad:** Baja
 
 Un recorrido por el entorno de El Casarito que combina bosque, formaciones rocosas y lugares relacionados con la historia del paisaje.
 
-Permite conocer algunos rincones menos frecuentados de los alrededores del camping y disfrutar de una caminata sencilla.
+Entre sus atractivos destacan las Figuras de Tomé, los castaños centenarios y el enclave arqueológico de la Mesa del Tío Julián.
 
 [Descubre el Camino del Peñasco](/rutas/desde-el-camping/camino-del-penasco/)
 
@@ -60,6 +60,25 @@ El recorrido permite descubrir cómo cambia el paisaje desde los bosques de las 
 Es una ruta que requiere una preparación mayor que los paseos anteriores, especialmente por el desnivel y las condiciones meteorológicas de la montaña.
 
 [Descubre la subida a la Peña de Francia](/rutas/desde-el-camping/subida-pena-de-francia/)
+
+## [Bosque Animado de Nava de Francia](/rutas/desde-el-camping/bosque-animado/)
+
+**Distancia del Bosque Animado:** 3,2 km  
+**Tipo:** Circular  
+**Dificultad:** Baja  
+**Especialmente recomendado:** Familias con niños
+
+Una de las rutas más originales y recientes de nuestro entorno.
+
+Inaugurado en junio de 2026, el Bosque Animado de Nava de Francia convierte un paseo por la naturaleza en una pequeña aventura.
+
+A lo largo del recorrido aparecen figuras de animales, personajes fantásticos y paneles que cuentan la historia de Navita, una pequeña corza que acompaña a los visitantes.
+
+Además, desde El Casarito podemos llegar caminando por el camino tradicional hacia Nava de Francia y enlazar con el Bosque Animado.
+
+Es importante distinguir el paseo circular de 3,2 km de la excursión completa desde el camping, que es más larga.
+
+[Descubre el Bosque Animado de Nava de Francia](/rutas/desde-el-camping/bosque-animado/)
 
 ## [Otras rutas desde el camping](/rutas/desde-el-camping/otras-rutas/)
 
