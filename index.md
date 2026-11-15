@@ -42,20 +42,17 @@ last_modified_at: 2026-11-15
 
 </div>
 
-
-</div>
-
 # Camping Sierra de Francia
 
 **Un pequeño bosque dentro de un bosque.**
 
 A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, muy cerca de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
 
-Desde 1977 recibimos a quienes buscan disfrutar de la naturaleza, descansar a la sombra de grandes árboles y descubrir uno de los rincones más especiales de Salamanca.
+Desde 1977 recibimos a quienes vienen a conocer este rincón de Salamanca, pasar unos días al aire libre y explorar sus pueblos y paisajes.
 
 Estamos dentro del **Parque Natural Las Batuecas–Sierra de Francia**, rodeados de robledales, montañas, caminos y pueblos llenos de historia.
 
-Un lugar para descansar, disfrutar del aire libre y conocer la Sierra de Francia a tu ritmo.
+Una forma sencilla de vivir la Sierra de Francia a tu ritmo.
 
 **Bienvenidos a nuestro camping.**
 
@@ -71,15 +68,15 @@ Un pequeño bosque de aproximadamente **15.000 m²**, dominado por enormes roble
 
 Sus grandes copas proporcionan abundante sombra natural en prácticamente todo el recinto, con la excepción de la zona de la piscina.
 
-En verano, cuando el calor aprieta, esa sombra convierte nuestro camping en un lugar especialmente agradable para descansar, leer, compartir tiempo en familia o simplemente disfrutar del aire libre.
+En verano, cuando el calor aprieta, las copas de los árboles crean un ambiente especialmente agradable y marcan el carácter de nuestras parcelas.
 
 Aquí la naturaleza no es un decorado. Forma parte de la estancia.
 
 Los árboles estaban aquí mucho antes que nosotros y queremos que sigan siendo los protagonistas.
 
-No somos un gran complejo turístico, ni queremos serlo. Somos un camping pequeño, tranquilo y familiar, donde nos gusta ofrecer un trato personal y cercano.
+No somos un gran complejo turístico, ni queremos serlo. Preferimos mantener una escala humana y un trato personal y cercano.
 
-Un lugar donde los niños pueden jugar al aire libre, donde es fácil encontrar un rincón tranquilo y donde cada visitante puede disfrutar del camping a su manera.
+Aquí los niños pueden jugar al aire libre y cada visitante encuentra su propia manera de pasar el día.
 
 **[Descubre cómo es nuestro camping y sus instalaciones](/nuestro-camping/)**
 
@@ -89,7 +86,7 @@ Un lugar donde los niños pueden jugar al aire libre, donde es fácil encontrar 
 
 Hay muchas formas de disfrutar de unos días en la Sierra de Francia.
 
-Puedes pasar la mañana tranquilamente bajo los árboles, salir a caminar por nuestros bosques, visitar alguno de los pueblos de la comarca o regresar después de una excursión y disfrutar de la sombra y la tranquilidad.
+Puedes dedicar la mañana a una excursión, visitar alguno de los pueblos de la comarca, disfrutar de la piscina o pasar el día en el camping.
 
 Para algunos, las vacaciones son descanso. Para otros, descubrir lugares nuevos. Y para muchos, una combinación de ambas cosas.
 
@@ -97,9 +94,7 @@ Nuestro camping permite disfrutar de esas experiencias.
 
 ### Parcelas para disfrutar del camping tradicional
 
-Acampar entre grandes robles, rodeado de naturaleza y con abundante sombra.
-
-Nuestras parcelas permiten disfrutar de la experiencia tradicional del camping, del aire libre y de la tranquilidad de nuestro pequeño bosque.
+Nuestras parcelas permiten disfrutar de la acampada tradicional, con el propio equipamiento y en un recinto donde los árboles forman parte de la experiencia.
 
 Una opción para quienes viajan con su propio equipamiento y quieren tener la Sierra de Francia como punto de partida.
 
@@ -107,11 +102,11 @@ Una opción para quienes viajan con su propio equipamiento y quieren tener la Si
 
 ### Bungalows en plena naturaleza
 
-Para quienes prefieren alojarse en un bungalow sin renunciar al entorno natural y al ambiente familiar del camping.
+Para quienes prefieren la comodidad de un alojamiento de madera durante su estancia.
 
 Disponemos de dos tipos de bungalows de madera, **Tomé y Roble**, con capacidad para cinco personas cada uno.
 
-Una alternativa para disfrutar de la Sierra de Francia y regresar a descansar entre los árboles.
+Una alternativa a las parcelas para descubrir la comarca desde El Casarito.
 
 **[Descubre nuestros bungalows en la Sierra de Francia](/nuestro-camping/bungalows/)**
 
@@ -126,7 +121,7 @@ Nuestro camping dispone de servicios para hacer más cómoda la estancia:
 - Microtienda.
 - Wi-Fi.
 
-Mantenemos el carácter sencillo y familiar del camping, sin grandes instalaciones que resten protagonismo al entorno natural.
+Son servicios pensados para acompañar la estancia sin transformar el carácter del lugar.
 
 **[Consulta las instalaciones y servicios de nuestro camping](/nuestro-camping/#instalaciones-y-servicios)**
 
@@ -144,7 +139,7 @@ Pero la riqueza de esta tierra no está solamente en sus bosques.
 
 La Sierra de Francia conserva un extraordinario patrimonio histórico y cultural, con pueblos de arquitectura tradicional, calles empedradas, plazas, iglesias, castillos y costumbres que forman parte de su identidad.
 
-Desde nuestro camping puedes descubrir todo ese patrimonio y regresar al final del día a la tranquilidad del robledal.
+Desde El Casarito puedes acercarte a ese patrimonio y organizar excursiones diferentes cada día.
 
 **Un lugar para quedarse y toda una sierra por descubrir.**
 
@@ -236,11 +231,7 @@ Desde el propio camping y sus inmediaciones parten diferentes caminos y rutas de
 
 Hay paseos tranquilos para disfrutar de la naturaleza y recorridos más largos para quienes quieren dedicar varias horas a caminar.
 
-Los caminos atraviesan robledales, zonas de castaños y paisajes que muestran la riqueza natural de estas montañas.
-
-Caminar es una de las mejores formas de descubrir la Sierra de Francia.
-
-Y hacerlo desde el lugar donde te alojas tiene un encanto especial.
+Los caminos atraviesan robledales, zonas de castaños y paisajes que muestran la riqueza natural de estas montañas. Caminar permite conocerlos de cerca y a otro ritmo.
 
 ### Senda de los Castaños Centenarios
 
@@ -280,7 +271,7 @@ También existen otros caminos tradicionales hacia Nava de Francia, La Alberca y
 
 La Sierra de Francia cuenta con cuatro recorridos que combinan senderismo, pueblos históricos y obras de arte contemporáneo integradas en el paisaje.
 
-Son una manera diferente de descubrir los bosques, caminos y paisajes de la comarca.
+En ellos, las intervenciones artísticas invitan a mirar el territorio de otra manera.
 
 ### Camino de las Raíces
 
@@ -375,7 +366,7 @@ Han cambiado muchas cosas a lo largo de estos años. Los árboles han seguido cr
 
 Pero hay algo que queremos conservar: nuestra manera de entender el camping.
 
-Nos gusta la sencillez, la tranquilidad y el trato cercano. Nos gusta conversar con nuestros visitantes, recomendarles lugares que conocemos y compartir con ellos nuestro cariño por la Sierra de Francia.
+Nos gusta conversar con nuestros visitantes, recomendarles lugares que conocemos y compartir con ellos nuestro cariño por esta tierra.
 
 No pretendemos ser algo diferente de lo que somos.
 
@@ -387,13 +378,7 @@ No pretendemos ser algo diferente de lo que somos.
 
 ## Contacto y reservas
 
-Si buscas un camping con mucha sombra, rodeado de naturaleza y cerca de La Alberca, estaremos encantados de recibirte.
-
-Puedes venir a descansar bajo nuestros robles, disfrutar de unos días en familia, caminar por nuestros bosques o descubrir el patrimonio de la Sierra de Francia.
-
-Y también puedes venir, sencillamente, a no hacer demasiado.
-
-A veces, eso es precisamente lo que necesitamos.
+Si estás preparando una estancia en la Sierra de Francia, estaremos encantados de ayudarte a organizarla. Puedes venir a caminar, conocer sus pueblos, disfrutar de unos días en familia o, sencillamente, no hacer demasiados planes.
 
 Estamos en **El Casarito, 37659 Nava de Francia, Salamanca**, a los pies de la Peña de Francia.
 
