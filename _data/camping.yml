@@ -1,221 +1,139 @@
-{% comment %}
-====================================================
-CAMPING SIERRA DE FRANCIA
-HEAD CUSTOM — V1
-====================================================
+# ==================================================
+# CAMPING SIERRA DE FRANCIA
+# Registro central de datos
+# ==================================================
+#
+# Fuente de información para Jekyll y Schema.org.
+#
+# No introducir datos sin confirmar:
+# coordenadas, precios, horarios, valoraciones
+# ni características de los alojamientos.
+#
+# ==================================================
 
-Compatible con:
-- Jekyll
-- Just the Docs
-- jekyll-seo-tag
-- jekyll-sitemap
+establecimiento:
+  nombre: "Camping Sierra de Francia"
+  tipo_schema: "Campground"
 
-Objetivos:
-1. Metadatos complementarios.
-2. Identidad del camping mediante Schema.org.
-3. BreadcrumbList para páginas interiores.
-4. Datos verificables y centralizados.
+  identificador: "https://campingsierradefrancia.com/#camping"
+  web: "https://campingsierradefrancia.com/"
 
-No duplicar:
-- title
-- meta description
-- canonical
-- WebSite
-- WebPage
+  descripcion: >-
+    Camping familiar en El Casarito, Nava de Francia,
+    Salamanca, situado a los pies de la Peña de Francia,
+    cerca de La Alberca, en el entorno del Parque Natural
+    Las Batuecas–Sierra de Francia.
 
-No inventar:
-- Coordenadas
-- Valoraciones
-- Precios
-- Horarios
-- Servicios no confirmados
+  fundacion: 1977
 
-====================================================
-{% endcomment %}
+  titular:
+    nombre: "Camping Sierra de Francia SLU"
+    cif: "B37221843"
 
-{% assign home_url = '/' | absolute_url %}
-{% assign current_url = page.url | absolute_url %}
-{% assign camping_id = home_url | append: '#camping' %}
+  contacto:
+    telefono: "+34661535704"
+    whatsapp: "https://wa.me/34661535704"
+    email: "campingsierradefrancia@gmail.com"
 
-{% comment %}
-====================================================
-1. METADATOS COMPLEMENTARIOS
-====================================================
-{% endcomment %}
+  direccion:
+    nucleo: "El Casarito"
+    municipio: "Nava de Francia"
+    codigo_postal: "37659"
+    provincia: "Salamanca"
+    comunidad: "Castilla y León"
+    pais: "ES"
 
-<meta name="theme-color" content="#ffffff">
+  ubicacion:
+    entorno: "Parque Natural Las Batuecas–Sierra de Francia"
+    referencia: "Peña de Francia"
+    localidad_cercana: "La Alberca"
 
-{% comment %}
-====================================================
-2. ENTIDAD PRINCIPAL: CAMPING
+    latitud:
+    longitud:
+    google_maps:
 
-Se publica únicamente en la portada.
+  caracteristicas:
+    familiar: true
+    tranquilo: true
+    superficie_m2: 15000
+    sombra_natural: true
+    robledal: true
 
-La información se obtiene de _config.yml
-para evitar duplicar datos de contacto.
+  temporada:
+    apertura_estacional: true
 
-Las características de las mascotas se
-describen de forma precisa.
+    periodos_habituales:
+      - "Semana Santa"
+      - "Puente de mayo"
+      - "Julio"
+      - "Agosto"
 
-No se declara que las mascotas estén
-permitidas en todos los alojamientos.
-====================================================
-{% endcomment %}
+    horarios_confirmados: false
 
-{% if page.url == '/' %}
+servicios:
+  piscina:
+    disponible: true
+    gratuita_para_clientes: true
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Campground",
-  "@id": {{ camping_id | jsonify }},
+  agua_caliente:
+    disponible: true
 
-  "name": {{ site.camping.nombre | jsonify }},
+  lavadora:
+    disponible: true
 
-  "url": {{ home_url | jsonify }},
+  wifi:
+    disponible: true
+    cobertura_total_confirmada: false
+    gratuidad_confirmada: false
 
-  "description": {{ site.description | strip_newlines | jsonify }},
+  bar:
+    disponible: true
 
-  "telephone": {{ site.camping.telefono | jsonify }},
+  terraza:
+    disponible: true
 
-  "email": {{ site.camping.email | jsonify }},
+  microtienda:
+    disponible: true
 
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": {{ site.camping.localidad | jsonify }},
-    "addressLocality": {{ site.camping.municipio | jsonify }},
-    "addressRegion": {{ site.camping.provincia | jsonify }},
-    "postalCode": {{ site.camping.codigo_postal | jsonify }},
-    "addressCountry": {{ site.camping.pais | jsonify }}
-  },
+alojamientos:
+  parcelas:
+    nombre: "Parcelas de acampada"
+    url: "/nuestro-camping/parcelas/"
 
-  "amenityFeature": [
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Piscina",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Wi-Fi",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Agua caliente",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Lavadora",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Bar y terraza",
-      "value": true
-    },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Microtienda",
-      "value": true
-    }
-  ],
+    sombra_natural: true
+    mascotas_permitidas: true
 
-  "petsAllowed": "Se admiten mascotas en parcelas y zona de acampada. No se admiten mascotas en los bungalows."
-}
-</script>
+    descripcion: >-
+      Parcelas de acampada en un recinto arbolado,
+      con abundante sombra natural.
+      Se admiten mascotas en esta zona.
 
-{% endif %}
+  bungalows:
+    nombre: "Bungalows de madera"
+    url: "/nuestro-camping/bungalows/"
 
-{% comment %}
-====================================================
-3. BREADCRUMBS
+    tipos: 2
+    mascotas_permitidas: false
 
-Se construyen utilizando la jerarquía
-real de URLs.
+    modelos:
+      - nombre: "Tomé"
+      - nombre: "Roble"
 
-No dependen de títulos repetidos.
+    descripcion: >-
+      Dos tipos de bungalows de madera,
+      Tomé y Roble.
+      No se admiten mascotas en los bungalows.
 
-Solo se incorporan páginas existentes.
+reservas:
+  modalidad: "Contacto directo"
+  pagina: "/contacto/"
+  whatsapp: "https://wa.me/34661535704"
+  telefono: "+34661535704"
+  email: "campingsierradefrancia@gmail.com"
 
-La portada no genera BreadcrumbList.
-====================================================
-{% endcomment %}
+seo:
+  entidad_principal: "Campground"
 
-{% unless page.url == '/' %}
-
-{% assign path_parts = page.url | split: '/' %}
-{% assign parent_path = '/' %}
-{% assign breadcrumb_items = '' | split: ',' %}
-
-{% for part in path_parts %}
-
-  {% if part != '' %}
-
-    {% assign parent_path = parent_path | append: part | append: '/' %}
-
-    {% if parent_path != page.url %}
-
-      {% for candidate in site.pages %}
-
-        {% if candidate.url == parent_path %}
-
-          {% assign breadcrumb_items = breadcrumb_items | push: candidate %}
-
-          {% break %}
-
-        {% endif %}
-
-      {% endfor %}
-
-    {% endif %}
-
-  {% endif %}
-
-{% endfor %}
-
-{% assign current_title = page.title | default: site.title %}
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "@id": {{ current_url | append: '#breadcrumb' | jsonify }},
-
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Inicio",
-      "item": {{ home_url | jsonify }}
-    }
-
-    {% assign position = 1 %}
-
-    {% for ancestor in breadcrumb_items %}
-
-      {% assign position = position | plus: 1 %}
-
-      ,{
-        "@type": "ListItem",
-        "position": {{ position }},
-        "name": {{ ancestor.title | jsonify }},
-        "item": {{ ancestor.url | absolute_url | jsonify }}
-      }
-
-    {% endfor %}
-
-    {% assign position = position | plus: 1 %}
-
-    ,{
-      "@type": "ListItem",
-      "position": {{ position }},
-      "name": {{ current_title | jsonify }},
-      "item": {{ current_url | jsonify }}
-    }
-  ]
-}
-</script>
-
-{% endunless %}
+  imagen_principal:
+  valoracion:
+  numero_resenas:
