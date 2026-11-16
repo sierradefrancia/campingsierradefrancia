@@ -25,9 +25,6 @@ last_modified_at: 2026-11-15
     style="width:100%;height:auto;"
   >
   <figcaption>
-    Entrada y recepción del Camping Sierra de Francia, en El Casarito (Nava de Francia, Salamanca).
-  </figcaption>
-</figure>
 
 **Un pequeño bosque dentro de un bosque.**
 
