@@ -1,0 +1,219 @@
+/* ==========================================
+   CAMPING SIERRA DE FRANCIA
+   Diseño visual personalizado — V1
+
+   Solo presentación.
+   No modifica contenido ni estructura.
+   ========================================== */
+
+/* IDENTIDAD VISUAL */
+
+$bosque: #263d30;
+$roble: #567459;
+$marfil: #f7f5ef;
+$verde-suave: #e2e8dd;
+$texto: #303b32;
+$blanco: #ffffff;
+
+/* BASE */
+
+body {
+  background-color: $marfil;
+  color: $texto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.main-content {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.main-content p,
+.main-content li {
+  line-height: 1.8;
+}
+
+/* CABECERA Y NAVEGACIÓN */
+
+.site-header {
+  background-color: $bosque;
+  border-bottom: none;
+}
+
+.site-title {
+  color: $blanco !important;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+}
+
+.site-button {
+  color: $blanco;
+}
+
+.side-bar {
+  background-color: #f0f2eb;
+}
+
+.nav-list .nav-list-item > .nav-list-link {
+  border-radius: 6px;
+}
+
+.nav-list .nav-list-item > .nav-list-link:hover {
+  background-color: $verde-suave;
+  color: $bosque;
+}
+
+.nav-list .nav-list-item > .nav-list-link.active {
+  color: $bosque;
+  font-weight: 700;
+}
+
+/* TÍTULOS */
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: $bosque;
+  line-height: 1.3;
+  letter-spacing: -0.015em;
+}
+
+.main-content h1 {
+  font-weight: 750;
+  margin-bottom: 1.5rem;
+}
+
+.main-content h2 {
+  font-weight: 700;
+  margin-top: 2.5rem;
+}
+
+.main-content h3 {
+  font-weight: 650;
+}
+
+/* ENLACES */
+
+.main-content a {
+  color: #345f43;
+  text-underline-offset: 3px;
+}
+
+.main-content a:hover {
+  color: #1e402b;
+}
+
+/* BOTONES EXISTENTES */
+
+.main-content .btn {
+  border-radius: 7px;
+  font-weight: 600;
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.main-content .btn-primary {
+  background-color: $bosque;
+  border-color: $bosque;
+  color: $blanco;
+}
+
+.main-content .btn-primary:hover {
+  background-color: $roble;
+  border-color: $roble;
+}
+
+/* FOTOGRAFÍAS EXISTENTES Y FUTURAS */
+
+.main-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.main-content figure {
+  margin: 1.75rem 0;
+}
+
+.main-content figcaption {
+  color: #647166;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-top: 0.5rem;
+}
+
+/* VÍDEOS */
+
+.main-content iframe {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+/* TABLAS */
+
+.main-content table {
+  border-collapse: collapse;
+}
+
+.main-content th {
+  background-color: $verde-suave;
+  color: $bosque;
+}
+
+/* SEPARADORES */
+
+.main-content hr {
+  border-color: #d8dfd4;
+}
+
+/* PIE DE PÁGINA */
+
+.site-footer {
+  color: #647166;
+  border-top-color: #d8dfd4;
+}
+
+/* ACCESIBILIDAD */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid $roble;
+  outline-offset: 3px;
+}
+
+/* MÓVILES */
+
+@media (max-width: 50rem) {
+  .main-content {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .main-content h1 {
+    font-size: 1.85rem;
+  }
+
+  .main-content h2 {
+    font-size: 1.45rem;
+  }
+
+  .main-content img {
+    border-radius: 7px;
+  }
+
+  .main-content iframe {
+    max-width: 100%;
+  }
+}
+
+/* RESPETO A MOVIMIENTO REDUCIDO */
+
+@media (prefers-reduced-motion: reduce) {
+  .main-content .btn {
+    transition: none;
+  }
+}
