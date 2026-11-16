@@ -8,7 +8,7 @@ last_modified_at: 2026-11-15
 ---
 
 # Camping Sierra de Francia
-
+---
 <figure>
   <img
     src="/entrada-recepcion-camping.webp"
@@ -20,7 +20,7 @@ last_modified_at: 2026-11-15
     style="width:100%;height:auto;"
   >
   <figcaption>
-
+---
 **Un pequeño bosque dentro de un bosque.**
 
 A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, a solo cuatro kilómetros de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
