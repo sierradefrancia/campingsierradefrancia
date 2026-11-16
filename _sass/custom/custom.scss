@@ -1,9 +1,9 @@
 /* ==========================================
    CAMPING SIERRA DE FRANCIA
-   Diseño visual personalizado — V1
+   Diseño visual personalizado — V2
 
-   Solo presentación.
-   No modifica contenido ni estructura.
+   Solo presentación visual.
+   No modifica contenidos ni estructura.
    ========================================== */
 
 /* IDENTIDAD VISUAL */
@@ -33,22 +33,49 @@ body {
   line-height: 1.8;
 }
 
-/* CABECERA Y NAVEGACIÓN */
+/* ==========================================
+   CABECERA Y LOGOTIPO
+   ========================================== */
 
 .site-header {
-  background-color: $bosque;
-  border-bottom: none;
+  background-color: $marfil;
+  border-bottom: 1px solid $verde-suave;
 }
 
 .site-title {
-  color: $blanco !important;
+  color: $bosque !important;
   font-weight: 650;
   letter-spacing: 0.01em;
 }
 
 .site-button {
-  color: $blanco;
+  color: $bosque;
 }
+
+/* Logotipo horizontal */
+
+.site-logo {
+  width: 220px;
+  max-width: 100%;
+  height: 80px;
+  background-size: contain;
+  background-position: left center;
+  background-repeat: no-repeat;
+}
+
+/* Botón de menú móvil */
+
+.site-header .site-button {
+  color: $bosque;
+}
+
+.site-header .site-button:hover {
+  color: $roble;
+}
+
+/* ==========================================
+   NAVEGACIÓN
+   ========================================== */
 
 .side-bar {
   background-color: #f0f2eb;
@@ -68,7 +95,9 @@ body {
   font-weight: 700;
 }
 
-/* TÍTULOS */
+/* ==========================================
+   TÍTULOS
+   ========================================== */
 
 .main-content h1,
 .main-content h2,
@@ -93,7 +122,9 @@ body {
   font-weight: 650;
 }
 
-/* ENLACES */
+/* ==========================================
+   ENLACES
+   ========================================== */
 
 .main-content a {
   color: #345f43;
@@ -104,7 +135,9 @@ body {
   color: #1e402b;
 }
 
-/* BOTONES EXISTENTES */
+/* ==========================================
+   BOTONES
+   ========================================== */
 
 .main-content .btn {
   border-radius: 7px;
@@ -126,7 +159,9 @@ body {
   border-color: $roble;
 }
 
-/* FOTOGRAFÍAS EXISTENTES Y FUTURAS */
+/* ==========================================
+   FOTOGRAFÍAS
+   ========================================== */
 
 .main-content img {
   max-width: 100%;
@@ -145,14 +180,18 @@ body {
   margin-top: 0.5rem;
 }
 
-/* VÍDEOS */
+/* ==========================================
+   VÍDEOS
+   ========================================== */
 
 .main-content iframe {
   max-width: 100%;
   border-radius: 10px;
 }
 
-/* TABLAS */
+/* ==========================================
+   TABLAS
+   ========================================== */
 
 .main-content table {
   border-collapse: collapse;
@@ -163,20 +202,26 @@ body {
   color: $bosque;
 }
 
-/* SEPARADORES */
+/* ==========================================
+   SEPARADORES
+   ========================================== */
 
 .main-content hr {
   border-color: #d8dfd4;
 }
 
-/* PIE DE PÁGINA */
+/* ==========================================
+   PIE DE PÁGINA
+   ========================================== */
 
 .site-footer {
   color: #647166;
   border-top-color: #d8dfd4;
 }
 
-/* ACCESIBILIDAD */
+/* ==========================================
+   ACCESIBILIDAD
+   ========================================== */
 
 a:focus-visible,
 button:focus-visible,
@@ -185,9 +230,21 @@ input:focus-visible {
   outline-offset: 3px;
 }
 
-/* MÓVILES */
+/* ==========================================
+   MÓVILES
+   ========================================== */
 
 @media (max-width: 50rem) {
+
+  .site-header {
+    background-color: $marfil;
+  }
+
+  .site-logo {
+    width: 190px;
+    height: 70px;
+  }
+
   .main-content {
     font-size: 1rem;
     line-height: 1.75;
@@ -210,7 +267,9 @@ input:focus-visible {
   }
 }
 
-/* RESPETO A MOVIMIENTO REDUCIDO */
+/* ==========================================
+   MOVIMIENTO REDUCIDO
+   ========================================== */
 
 @media (prefers-reduced-motion: reduce) {
   .main-content .btn {
