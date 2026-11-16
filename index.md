@@ -77,6 +77,20 @@ Aquí los niños pueden jugar al aire libre y cada visitante encuentra su propia
 
 ## Alojarse en el Camping Sierra de Francia
 
+
+<figure>
+  <img
+    src="/Bungalows-camping-tome-1.webp"
+    alt="Bungalows de madera del Camping Sierra de Francia, rodeados de robles y árboles que proporcionan sombra natural en El Casarito, Salamanca"
+    width="1536"
+    height="762"
+    loading="lazy"
+    decoding="async"
+    style="width:100%;height:auto;"
+  >
+</figure>
+
+
 Hay muchas formas de disfrutar de unos días en la Sierra de Francia.
 
 Puedes dedicar la mañana a una excursión, visitar alguno de los pueblos de la comarca, disfrutar de la piscina o pasar el día en el camping.
