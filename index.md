@@ -9,16 +9,16 @@ last_modified_at: 2026-11-15
 
 # Camping Sierra de Francia
 
-<figure>
-  <img
-    src="/entrada-recepcion-camping.webp"
-    alt="Entrada y recepción del Camping Sierra de Francia en El Casarito, Salamanca, rodeadas de árboles y vegetación"
-    width="1536"
-    height="814"
-    loading="lazy"
-    decoding="async"
-    style="width:100%;height:auto;"
-  >
+
+<img
+  src="/entrada-recepcion-camping.webp"
+  alt="Entrada y recepción del Camping Sierra de Francia en El Casarito, Nava de Francia, Salamanca, rodeadas de árboles y vegetación"
+  width="1536"
+  height="814"
+  loading="lazy"
+  decoding="async"
+  style="display:block;width:100%;height:auto;border-radius:10px;"
+>
   
 ## Un pequeño bosque dentro de un bosque.
 
