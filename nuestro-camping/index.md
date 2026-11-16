@@ -10,6 +10,20 @@ has_children: true
 
 # Nuestro camping
 
+
+<div style="position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:10px;margin:24px 0;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/itPdIEBRAos"
+    title="Vídeo del Camping Sierra de Francia"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 ## Un camping familiar en plena naturaleza
 
 El Camping Sierra de Francia es un pequeño camping familiar situado en El Casarito, a las faldas de la Peña de Francia y **a solo cuatro kilómetros de La Alberca**, en Salamanca.
