@@ -138,7 +138,8 @@ Una alternativa a las parcelas para descubrir la comarca desde El Casarito.
 Nuestro camping dispone de servicios para hacer más cómoda la estancia:
 
 - Piscina gratuita para nuestros clientes.
-- Agua caliente.
+- Parque Infantil.
+- Agua caliente gratis.
 - Bar y terraza.
 - Servicio de lavadora.
 - Microtienda.
