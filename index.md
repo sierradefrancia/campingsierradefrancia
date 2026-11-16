@@ -9,9 +9,8 @@ last_modified_at: 2026-11-15
 
 # Camping Sierra de Francia
 
-
 <img
-  src="/entrada-recepcion-camping.webp"
+  src="{{ '/entrada-recepcion-camping.webp' | relative_url }}"
   alt="Entrada y recepción del Camping Sierra de Francia en El Casarito, Nava de Francia, Salamanca, rodeadas de árboles y vegetación"
   width="1536"
   height="814"
