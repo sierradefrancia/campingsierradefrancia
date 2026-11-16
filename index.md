@@ -121,6 +121,20 @@ Una alternativa a las parcelas para descubrir la comarca desde El Casarito.
 
 ### Instalaciones y servicios
 
+
+<figure>
+  <img
+    src="/Piscina-camping-1.webp"
+    alt="Piscina del Camping Sierra de Francia en El Casarito, Nava de Francia, Salamanca, rodeada de árboles y zonas verdes"
+    width="1536"
+    height="752"
+    loading="lazy"
+    decoding="async"
+    style="width:100%;height:auto;"
+  >
+</figure>
+
+
 Nuestro camping dispone de servicios para hacer más cómoda la estancia:
 
 - Piscina gratuita para nuestros clientes.
@@ -131,6 +145,20 @@ Nuestro camping dispone de servicios para hacer más cómoda la estancia:
 - Wi-Fi.
 
 Son servicios pensados para acompañar la estancia sin transformar el carácter del lugar.
+
+
+<figure>
+  <img
+    src="/Terraza-camping-arbol-centenario.webp"
+    alt="Terraza del Camping Sierra de Francia bajo la sombra de un castaño centenario, con mesas y sillas al aire libre en El Casarito, Salamanca"
+    width="1536"
+    height="742"
+    loading="lazy"
+    decoding="async"
+    style="width:100%;height:auto;"
+  >
+</figure>
+
 
 **[Consulta las instalaciones y servicios de nuestro camping](/nuestro-camping/#instalaciones-y-servicios)**
 
