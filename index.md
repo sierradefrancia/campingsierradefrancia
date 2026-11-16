@@ -167,6 +167,18 @@ Son servicios pensados para acompañar la estancia sin transformar el carácter 
 
 ## La Sierra de Francia comienza aquí
 
+<figure>
+  <img
+    src="/La-sierra-empieza-aqui.webp"
+    alt="La Sierra de Francia empieza aquí, en el Camping Sierra de Francia. Un lugar donde la naturaleza, los pueblos y los caminos invitan a descubrir un territorio único."
+    width="1536"
+    height="865"
+    loading="lazy"
+    decoding="async"
+    style="width:100%;height:auto;"
+  >
+</figure>
+
 Una de las cosas que hacen especial a nuestro camping es su ubicación.
 
 Estamos en **El Casarito, en el municipio de Nava de Francia**, a las faldas de la Peña de Francia, uno de los grandes símbolos naturales y culturales de Salamanca.
