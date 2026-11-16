@@ -6,7 +6,7 @@ permalink: /
 last_modified_at: 2026-11-15
 ---
 
-    Estamos trabajando en nuestra nueva página web.
+    Estamos trabajando en nuestra Web
     Tanto el diseño como los contenidos
     publicados se encuentran en desarrollo
     y todavía no son definitivos.
