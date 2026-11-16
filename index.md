@@ -6,40 +6,10 @@ permalink: /
 last_modified_at: 2026-11-15
 ---
 
-<div style="
-  border: 3px solid #b8860b;
-  border-radius: 10px;
-  background-color: #fff3cd;
-  padding: 25px 20px;
-  margin: 25px 0 35px 0;
-  text-align: center;
-  box-sizing: border-box;
-">
-
-  <p style="
-    font-size: 1.8rem;
-    font-weight: 800;
-    color: #6b4e00;
-    margin: 0 0 18px 0;
-    line-height: 1.3;
-  ">
-    🚧 PÁGINA WEB EN CONSTRUCCIÓN 🚧
-  </p>
-
-  <p style="
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: #493800;
-    line-height: 1.6;
-    margin: 0;
-  ">
     Estamos trabajando en nuestra nueva página web.
     Tanto el diseño como los contenidos
     publicados se encuentran en desarrollo
     y todavía no son definitivos.
-  </p>
-
-</div>
 
 # Camping Sierra de Francia
 
