@@ -19,9 +19,8 @@ last_modified_at: 2026-11-15
     decoding="async"
     style="width:100%;height:auto;"
   >
-  <figcaption>
----
-##Un pequeño bosque dentro de un bosque.
+  
+## Un pequeño bosque dentro de un bosque.
 
 A los pies de la [Peña de Francia](/la-sierra/pena-de-francia/), en El Casarito, a solo cuatro kilómetros de [La Alberca](/la-sierra/pueblos/la-alberca/), se encuentra nuestro pequeño camping familiar.
 
