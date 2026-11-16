@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nuestro camping | Camping Sierra de Francia"
+title: "Nuestro camping"
 description: "Conoce nuestro camping familiar en El Casarito, a cuatro kilómetros de La Alberca. Un robledal de 15.000 m² con sombra natural, parcelas, bungalows y piscina. Desde 1977."
 permalink: /nuestro-camping/
 last_modified_at: 2026-11-15
