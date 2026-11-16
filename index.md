@@ -2,6 +2,7 @@
 layout: default
 title: "Camping Sierra de Francia | Camping familiar cerca de La Alberca"
 description: "Camping familiar en El Casarito, cerca de La Alberca, Salamanca. Parcelas con sombra, bungalows, piscina y naturaleza a los pies de la Peña de Francia. Desde 1977."
+nav_order: 1
 permalink: /
 last_modified_at: 2026-11-15
 ---
