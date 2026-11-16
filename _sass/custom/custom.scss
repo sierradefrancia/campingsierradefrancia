@@ -1,12 +1,13 @@
+
 /* ==========================================
    CAMPING SIERRA DE FRANCIA
-   Diseño visual personalizado — V2
+   DISEÑO VISUAL V3
 
-   Solo presentación visual.
-   No modifica contenidos ni estructura.
+   Compatible con Just the Docs
+   Sin modificaciones editoriales
    ========================================== */
 
-/* IDENTIDAD VISUAL */
+/* PALETA */
 
 $bosque: #263d30;
 $roble: #567459;
@@ -34,52 +35,64 @@ body {
 }
 
 /* ==========================================
-   CABECERA Y LOGOTIPO
+   CABECERA — FONDO CLARO
    ========================================== */
 
-.site-header {
-  background-color: $marfil;
+/* Cubrimos las variantes del tema */
+
+.site-header,
+.side-bar .site-header,
+.site-header.site-header {
+  background: $marfil !important;
+  background-color: $marfil !important;
   border-bottom: 1px solid $verde-suave;
 }
+
+/* Barra lateral */
+
+.side-bar {
+  background: #f0f2eb !important;
+  background-color: #f0f2eb !important;
+}
+
+/* Contenedor del logotipo */
 
 .site-title {
   color: $bosque !important;
   font-weight: 650;
   letter-spacing: 0.01em;
+  background-color: transparent !important;
 }
 
-.site-button {
-  color: $bosque;
-}
-
-/* Logotipo horizontal */
+/* Logotipo */
 
 .site-logo {
+  display: block;
   width: 220px;
   max-width: 100%;
   height: 80px;
-  background-size: contain;
-  background-position: left center;
-  background-repeat: no-repeat;
+  background-size: contain !important;
+  background-position: left center !important;
+  background-repeat: no-repeat !important;
 }
 
-/* Botón de menú móvil */
+/* Botones de cabecera */
 
-.site-header .site-button {
-  color: $bosque;
-}
-
+.site-header .site-button,
 .site-header .site-button:hover {
-  color: $roble;
+  color: $bosque !important;
+}
+
+/* Iconos del menú */
+
+.site-header .site-button svg {
+  color: $bosque !important;
+  fill: currentColor;
 }
 
 /* ==========================================
    NAVEGACIÓN
    ========================================== */
-
-.side-bar {
-  background-color: #f0f2eb;
-}
 
 .nav-list .nav-list-item > .nav-list-link {
   border-radius: 6px;
@@ -160,7 +173,7 @@ body {
 }
 
 /* ==========================================
-   FOTOGRAFÍAS
+   IMÁGENES
    ========================================== */
 
 .main-content img {
@@ -236,13 +249,20 @@ input:focus-visible {
 
 @media (max-width: 50rem) {
 
-  .site-header {
-    background-color: $marfil;
+  .site-header,
+  .side-bar .site-header {
+    background: $marfil !important;
+    background-color: $marfil !important;
   }
 
   .site-logo {
     width: 190px;
+    max-width: 100%;
     height: 70px;
+  }
+
+  .site-header .site-button {
+    color: $bosque !important;
   }
 
   .main-content {
