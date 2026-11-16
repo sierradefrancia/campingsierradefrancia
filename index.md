@@ -41,6 +41,20 @@ Una forma sencilla de vivir la Sierra de Francia a tu ritmo.
 
 ## Un camping con mucha sombra cerca de La Alberca
 
+
+<figure>
+  <img
+    src="/Camping-robles-sombra.webp"
+    alt="Robles centenarios y amplias zonas de sombra natural en el Camping Sierra de Francia, El Casarito, Salamanca"
+    width="1536"
+    height="772"
+    loading="lazy"
+    decoding="async"
+    style="width:100%;height:auto;"
+  >
+</figure>
+
+
 Nuestro camping es, sobre todo, un robledal.
 
 Un pequeño bosque de aproximadamente **15.000 m²**, dominado por enormes robles, entre los que también crecen castaños —algunos centenarios— y otras especies de árboles.
